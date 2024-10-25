@@ -1,0 +1,19 @@
+{
+  "enterPhone": "Enter phone number",
+  "toSignIn": "to sign in or register",
+  "country": "Country",
+  "search": "Search",
+  "phoneNumber": "Phone Number",
+  "errorNumber": "Wrong number or format",
+  "next": "Next",
+  "continue": "Continue",
+  "back": "Back",
+  "send": "Send",
+  "codeWasSended": "code was sended to",
+  "confirmationType": "Receive code type",
+  "enterCode": "Enter code",
+  "terms": "Terms",
+  "privacy": "Privacy",
+  "ru": "Russian",
+  "en": "English"
+}
